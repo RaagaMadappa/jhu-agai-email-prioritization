@@ -53,7 +53,7 @@ The notebook is published as a rendered HTML file for easy viewing without any s
 
 👉 [**View the Notebook**](https://raagamadappa.github.io/jhu-agai-email-prioritization/JHU_AGAI_W9_Mid_Term_Project_Learners_Notebook.html)
 
-> To view it rendered, either clone this repo and open the HTML file in a browser, or enable GitHub Pages (see below).
+> To view it rendered, clone this repo and open the HTML file in a browser.
 
 
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt   # if provided
 jupyter notebook
 ```
 
-> You will need to supply your own LLM API key in the LLM Setup section.
+> You will need to supply your own LLM API key in the LLM Setup section and provide your own data file which would be a csv file with emails.
 
 
 
